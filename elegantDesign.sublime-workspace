@@ -3,6 +3,10 @@
 	{
 		"selected_items":
 		[
+			[
+				"contac",
+				"contact"
+			]
 		]
 	},
 	"buffers":
@@ -11,7 +15,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5591,
+				"buffer_size": 5274,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,7 +23,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 9406,
+				"buffer_size": 8974,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,31 +31,7 @@
 			"file": "technology.html",
 			"settings":
 			{
-				"buffer_size": 12979,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "contact.html",
-			"settings":
-			{
-				"buffer_size": 7898,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "faq.html",
-			"settings":
-			{
-				"buffer_size": 9863,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "photo.html",
-			"settings":
-			{
-				"buffer_size": 15483,
+				"buffer_size": 12674,
 				"line_ending": "Unix"
 			}
 		},
@@ -60,6 +40,30 @@
 			"settings":
 			{
 				"buffer_size": 13000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photo.html",
+			"settings":
+			{
+				"buffer_size": 13801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "faq.html",
+			"settings":
+			{
+				"buffer_size": 9557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 7287,
 				"line_ending": "Unix"
 			}
 		}
@@ -148,7 +152,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -156,15 +160,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5591,
+						"buffer_size": 5274,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3099,
+								3099
 							]
 						],
 						"settings":
@@ -174,7 +178,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 798.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -184,15 +188,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 9406,
+						"buffer_size": 8974,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								7858,
+								7858
 							]
 						],
 						"settings":
@@ -202,7 +206,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3850.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -212,15 +216,15 @@
 					"file": "technology.html",
 					"settings":
 					{
-						"buffer_size": 12979,
+						"buffer_size": 12674,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4994,
+								4994
 							]
 						],
 						"settings":
@@ -230,31 +234,31 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2287.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "contact.html",
+					"file": "process.html",
 					"settings":
 					{
-						"buffer_size": 7898,
+						"buffer_size": 13000,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								557,
+								557
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -265,18 +269,18 @@
 				},
 				{
 					"buffer": 4,
-					"file": "faq.html",
+					"file": "photo.html",
 					"settings":
 					{
-						"buffer_size": 9863,
+						"buffer_size": 13801,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								7015,
+								7015
 							]
 						],
 						"settings":
@@ -286,25 +290,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3722.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "photo.html",
+					"file": "faq.html",
 					"settings":
 					{
-						"buffer_size": 15483,
+						"buffer_size": 9557,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8539,
+								8539
 							]
 						],
 						"settings":
@@ -321,24 +325,24 @@
 				},
 				{
 					"buffer": 6,
-					"file": "process.html",
+					"file": "contact.html",
 					"settings":
 					{
-						"buffer_size": 13000,
+						"buffer_size": 7287,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								429,
-								429
+								6286,
+								6286
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
