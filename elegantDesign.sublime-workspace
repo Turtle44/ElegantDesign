@@ -43,7 +43,7 @@
 			"file": "process.html",
 			"settings":
 			{
-				"buffer_size": 13133,
+				"buffer_size": 13131,
 				"line_ending": "Unix"
 			}
 		},
@@ -124,7 +124,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"<open files>"
@@ -176,7 +176,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -268,15 +268,15 @@
 					"file": "process.html",
 					"settings":
 					{
-						"buffer_size": 13133,
+						"buffer_size": 13131,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2139,
-								2139
+								3275,
+								3275
 							]
 						],
 						"settings":
@@ -286,7 +286,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 717.0,
+						"translation.y": 1268.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -398,7 +398,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6754.0,
+						"translation.y": 3581.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
