@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-color"
+			],
+			[
 				"contac",
 				"contact"
 			]
@@ -23,7 +27,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 9095,
+				"buffer_size": 9109,
 				"line_ending": "Unix"
 			}
 		},
@@ -31,7 +35,7 @@
 			"file": "technology.html",
 			"settings":
 			{
-				"buffer_size": 12667,
+				"buffer_size": 12689,
 				"line_ending": "Unix"
 			}
 		},
@@ -39,7 +43,7 @@
 			"file": "process.html",
 			"settings":
 			{
-				"buffer_size": 13096,
+				"buffer_size": 13133,
 				"line_ending": "Unix"
 			}
 		},
@@ -47,7 +51,7 @@
 			"file": "photo.html",
 			"settings":
 			{
-				"buffer_size": 14316,
+				"buffer_size": 14338,
 				"line_ending": "Unix"
 			}
 		},
@@ -55,7 +59,7 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 9519,
+				"buffer_size": 9541,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,7 +67,15 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 7380,
+				"buffer_size": 7402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "price.html",
+			"settings":
+			{
+				"buffer_size": 20004,
 				"line_ending": "Unix"
 			}
 		}
@@ -92,6 +104,8 @@
 	},
 	"file_history":
 	[
+		"/C/$Projects/site_main/jetstrap-project/assets/css/Копия (1) bootstrap.css",
+		"/C/$Projects/site_main/jetstrap-project/test.html",
 		"/C/$tmp/elegantdesign36/process.html",
 		"/C/$Projects/site_main/jetstrap-project/screen-bd4e276e90.html",
 		"/C/$Projects/site_main/jetstrap-project/screen-385b723093.html",
@@ -110,7 +124,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"<open files>"
@@ -121,6 +135,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Красов и Ко",
+			"Цвета",
+			"Прайс",
 			"style=\"opacity: 0.787503;\"",
 			"screen-e91b8374d4.html",
 			"screen-4316557e2f.html",
@@ -137,6 +154,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Elegant Design",
+			"Каталог",
+			"Услуги и цены",
 			" ",
 			"",
 			"contact.html",
@@ -156,7 +176,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -182,7 +202,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 605.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -192,15 +212,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 9095,
+						"buffer_size": 9109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4156,
-								4156
+								6749,
+								6749
 							]
 						],
 						"settings":
@@ -210,7 +230,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2324.0,
+						"translation.y": 3420.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -220,15 +240,15 @@
 					"file": "technology.html",
 					"settings":
 					{
-						"buffer_size": 12667,
+						"buffer_size": 12689,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5754,
-								5754
+								2236,
+								2236
 							]
 						],
 						"settings":
@@ -238,7 +258,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2271.0,
+						"translation.y": 979.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -248,15 +268,15 @@
 					"file": "process.html",
 					"settings":
 					{
-						"buffer_size": 13096,
+						"buffer_size": 13133,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7786,
-								7786
+								2139,
+								2139
 							]
 						],
 						"settings":
@@ -266,7 +286,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3320.0,
+						"translation.y": 717.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -276,15 +296,15 @@
 					"file": "photo.html",
 					"settings":
 					{
-						"buffer_size": 14316,
+						"buffer_size": 14338,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14058,
-								14058
+								2235,
+								2235
 							]
 						],
 						"settings":
@@ -294,7 +314,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7712.0,
+						"translation.y": 775.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -304,15 +324,15 @@
 					"file": "faq.html",
 					"settings":
 					{
-						"buffer_size": 9519,
+						"buffer_size": 9541,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9275,
-								9275
+								2221,
+								2221
 							]
 						],
 						"settings":
@@ -322,7 +342,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5136.0,
+						"translation.y": 975.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -332,15 +352,15 @@
 					"file": "contact.html",
 					"settings":
 					{
-						"buffer_size": 7380,
+						"buffer_size": 7402,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4397,
-								4397
+								7015,
+								6978
 							]
 						],
 						"settings":
@@ -350,7 +370,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2546.0,
+						"translation.y": 4200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "price.html",
+					"settings":
+					{
+						"buffer_size": 20004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18683,
+								18683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6754.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
