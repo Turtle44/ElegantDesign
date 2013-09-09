@@ -39,7 +39,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5756,
+				"buffer_size": 5124,
 				"line_ending": "Unix"
 			}
 		},
@@ -47,7 +47,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 9808,
+				"buffer_size": 9831,
 				"line_ending": "Unix"
 			}
 		},
@@ -71,7 +71,7 @@
 			"file": "catalog.html",
 			"settings":
 			{
-				"buffer_size": 7531,
+				"buffer_size": 7546,
 				"line_ending": "Unix"
 			}
 		},
@@ -79,7 +79,7 @@
 			"file": "photo.html",
 			"settings":
 			{
-				"buffer_size": 14740,
+				"buffer_size": 14587,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +87,7 @@
 			"file": "price.html",
 			"settings":
 			{
-				"buffer_size": 20729,
+				"buffer_size": 20805,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,7 +95,7 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 10044,
+				"buffer_size": 10057,
 				"line_ending": "Unix"
 			}
 		},
@@ -103,7 +103,7 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 7888,
+				"buffer_size": 7897,
 				"line_ending": "Unix"
 			}
 		}
@@ -206,7 +206,7 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -214,15 +214,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5756,
+						"buffer_size": 5124,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5712,
-								5712
+								3911,
+								3911
 							]
 						],
 						"settings":
@@ -232,7 +232,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 969.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -242,15 +242,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 9808,
+						"buffer_size": 9831,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								589,
-								589
+								8167,
+								8167
 							]
 						],
 						"settings":
@@ -260,7 +260,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4389.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -326,15 +326,15 @@
 					"file": "catalog.html",
 					"settings":
 					{
-						"buffer_size": 7531,
+						"buffer_size": 7546,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								346,
-								346
+								6514,
+								6514
 							]
 						],
 						"settings":
@@ -344,7 +344,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3154.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -354,15 +354,15 @@
 					"file": "photo.html",
 					"settings":
 					{
-						"buffer_size": 14740,
+						"buffer_size": 14587,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								498,
-								498
+								13851,
+								13851
 							]
 						],
 						"settings":
@@ -372,7 +372,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 7565.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -382,15 +382,15 @@
 					"file": "price.html",
 					"settings":
 					{
-						"buffer_size": 20729,
+						"buffer_size": 20805,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								654,
-								654
+								18824,
+								18824
 							]
 						],
 						"settings":
@@ -400,7 +400,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 6555.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -410,15 +410,15 @@
 					"file": "faq.html",
 					"settings":
 					{
-						"buffer_size": 10044,
+						"buffer_size": 10057,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								561,
-								561
+								8291,
+								8291
 							]
 						],
 						"settings":
@@ -438,15 +438,15 @@
 					"file": "contact.html",
 					"settings":
 					{
-						"buffer_size": 7888,
+						"buffer_size": 7897,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								586,
-								586
+								6335,
+								6335
 							]
 						],
 						"settings":
@@ -456,7 +456,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3477.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
