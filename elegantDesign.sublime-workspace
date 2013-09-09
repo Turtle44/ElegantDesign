@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"fon",
+				"font-size"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"acc",
+				"accordion-toggle"
+			],
+			[
+				"row",
+				"row-fluid"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
 				"ba",
 				"background-color"
 			],
@@ -19,7 +39,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5836,
+				"buffer_size": 5756,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,7 +47,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 9722,
+				"buffer_size": 9808,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,7 +55,7 @@
 			"file": "technology.html",
 			"settings":
 			{
-				"buffer_size": 12861,
+				"buffer_size": 13182,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +63,15 @@
 			"file": "process.html",
 			"settings":
 			{
-				"buffer_size": 13302,
+				"buffer_size": 13694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "catalog.html",
+			"settings":
+			{
+				"buffer_size": 7531,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,7 +79,7 @@
 			"file": "photo.html",
 			"settings":
 			{
-				"buffer_size": 14512,
+				"buffer_size": 14740,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +87,7 @@
 			"file": "price.html",
 			"settings":
 			{
-				"buffer_size": 20181,
+				"buffer_size": 20729,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,18 +95,15 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 9708,
+				"buffer_size": 10044,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\n        Контакты | Elegant Design\n    </title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n    <!-- Le styles -->\n    <link href=\"assets/css/bootstrap.css\" rel=\"stylesheet\">\n    <style>\n      body { padding-top: 60px; /* 60px to make the container go all the way\n      to the bottom of the topbar */ }\n    </style>\n    <link href=\"assets/css/bootstrap-responsive.css\" rel=\"stylesheet\">\n    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->\n    <!--[if lt IE 9]>\n      <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\">\n      </script>\n    <![endif]-->\n    <!-- Le fav and touch icons -->\n    <link rel=\"shortcut icon\" href=\"assets/ico/favicon.ico\">\n    <link rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"assets/ico/apple-touch-icon-144-precomposed.png\">\n    <link rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" href=\"assets/ico/apple-touch-icon-114-precomposed.png\">\n    <link rel=\"apple-touch-icon-precomposed\" sizes=\"72x72\" href=\"assets/ico/apple-touch-icon-72-precomposed.png\">\n    <link rel=\"apple-touch-icon-precomposed\" href=\"assets/ico/apple-touch-icon-57-precomposed.png\">\n\n    <link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\"> \n    <link rel=\"shortcut icon\" href=\"favicon.ico\" type=\"image/x-icon\">\n\n    <style>\n    </style>\n  </head>\n  <body>\n    <div class=\"navbar navbar-fixed-top\">\n    	<div class=\"navbar-inner\">\n    		<div class=\"container-fluid\">\n    			<a class=\"btn btn-navbar\" data-toggle=\"collapse\" data-target=\".nav-collapse\">\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </a>\n    			<a class=\"brand\" href=\"index.html\">Elegant Design</a>\n    			<div class=\"nav-collapse collapse\">\n    				<ul class=\"nav\">\n    					<li>\n    						<a href=\"main.html\">Главная</a>\n    					</li>\n    					<li>\n    						<a href=\"technology.html\">Технология</a>\n    					</li>\n    					<li>\n    						<a href=\"process.html\">Установка</a>\n    					</li><li>\n    						<a href=\"#\">Каталог</a>\n    					</li>\n    					<li>\n    						<a href=\"photo.html\">Фото</a>\n    					</li>\n    					\n    					<li>\n    						<a href=\"price.html\">Услуги и цены</a>\n    					</li>\n    					<li>\n    						<a href=\"faq.html\">FAQ</a>\n    					</li>\n    					<li class=\"active\">\n    						<a href=\"contact.html\">Контакты</a>\n    					</li>\n    					<li>\n    					</li>\n    				</ul>\n    			</div>\n    		</div>\n    	</div>\n    </div>\n    <header class=\"jumbotron subhead\" id=\"contacthead\">\n    	<div class=\"container-fluid\">\n    		<h1>\n    			Контакты\n    		</h1>\n    		<p class=\"lead\">\n    			По всем вопросам вы можете связаться с нашими специалистами\n    			<br>\n    		</p>\n    	</div>\n    </header>\n    <div class=\"container-fluid\">\n    	<div class=\"row-fluid\">\n    		<div style=\"opacity: 1;\" class=\"span3\" id=\"left\">\n    			<div class=\"well sidebar-nav\">\n    				<ul class=\"nav nav-list\">\n    					<li class=\"nav-header\">\n    						Новости\n    					</li>\n    					<li>\n    						Ведется разработка нашего интернет-сайта!\n    					</li>\n    					<li class=\"nav-header\">\n    						Наши клиенты\n    					</li>\n    					<li>\n    						<a href=\"#\">Галерея Чижова</a>\n    					</li>\n    					<li>\n    						<a href=\"#\">Администрация Воронежа</a>\n    					</li>\n    					<li>\n    						<a href=\"#\">Денис, Березняк</a>\n    					</li>\n    					<li class=\"nav-header\">\n    						Информация\n    					</li>\n    					<li>\n    						<a href=\"#\">Отзывы о нашей работе</a>\n    					</li>\n    				</ul>\n    			</div>\n    			<!--/.well -->\n    		</div>\n    		<!--/span-->\n    		<div class=\"span9\">\n    			<div class=\"row-fluid\">\n    				<ul class=\"thumbnails\">\n    					<li class=\"span12 clearfix\">\n    						<div class=\"thumbnail clearfix\">\n    							<div class=\"caption\">\n    								<a href=\"mailto:Krasov.Dmitry@mail.ru?Subject=Письмо от посетителя сайта\" class=\"btn icon  pull-right btn-success\">\n                                        Отправить e-mail\n                                    </a>\n    								<h4>\n    									<p style=\"color: rgb(0, 136, 201)\">\n    										Дмитрий\n    									</p>\n    								</h4>\n    								<p>\n    									Подбор материалов, организация, прием заказов в Воронеже, монтаж потолков\n    								</p>\n    								<small>\n    									<b>Телефон: </b><br>\n    									89042118982\n    								</small>\n    								<br>\n    								<small>\n    									<b>E-mail: </b>\n    									krasov.dmitry@mail.ru\n    									<br>\n    								</small>\n    							</div>\n    						</div>\n    					</li>\n    				</ul>\n    			</div>\n    			<!--/row-->\n    			<div class=\"row-fluid\">\n    				<ul class=\"thumbnails\">\n    					<li class=\"span12 clearfix\">\n    						<div class=\"thumbnail clearfix\">\n    							<div class=\"caption\">\n    								<a href=\"mailto:dms-444@yandex.ru?Subject=Письмо от посетителя сайта\" class=\"btn icon  pull-right btn-success\">\n                                        Отправить e-mail\n                                    </a>\n    								<h4>\n    									<p style=\"color: rgb(0, 136, 201)\">\n    										Алексей\n    									</p>\n    								</h4>\n    								<p>\n    									Подбор материалов, организация, прием заказов в Воронеже, монтаж потолков\n    								</p>\n    								<small>\n    									<b>Телефоны: </b><br>\n    									89518589007<br>\n                                        89515402918<br>\n                                        257-18-23\n    								</small>\n    								<br>\n    								<small>\n    									<b>E-mail: </b>\n    									dmitry-kr@mail.ru\n    									<br>\n    								</small>\n    							</div>\n    						</div>\n    					</li>\n    				</ul>\n    			</div>\n    			<!--/row-->\n    			\n    		</div>\n    		<!--/span-->\n    	</div>\n    	<!--/row-->\n    </div>\n    <!--/.fluid-container-->\n    <br>\n    <div class=\"navbar navbar-fixed-bottom\" id=\"footer\">\n        <div class=\"navbar-inner\">\n    		<div class=\"container-fluid\">\n    			<ul class=\"nav\">\n    				<li>\n    					<a>© Elegant Design 2013</a>\n    				</li>\n    			</ul>\n    			<ul class=\"nav pull-right\">\n    				<li class=\"pull-right\">\n    					<a class=\"pull-right\" href=\"#\" onclick=\"scroll(0,0); return false\">Наверх</a>\n    				</li>\n    			</ul>\n    		</div>\n    	</div>\n    </div>\n\n    <style>\n      \n      body {\n        /*padding-top: 60px;*/\n        padding-bottom: 40px;\n        background: url(\"image/background/contact.jpg\");    \n      } \n      .sidebar-nav {\n        padding: 9px 0;\n      }\n      \n      @media (max-width: 980px) {\n        /* Enable use of floated navbar text */\n        .navbar-text.pull-right {\n          float: none;\n          padding-left: 5px;\n          padding-right: 5px;\n        }\n      }\n      \n      #mainhero{\n          padding-top: 2em;\n          padding-bottom: 2em;\n      }\n      \n      .lighten1 {\n          padding-left: 9px;\n          padding-right: 9px;\n      }\n      .lighten1:hover{\n          border-radius: 6px;\n          background-color: rgb(238, 238, 238);\n      }\n      \n      header{\n          margin-bottom: 0.7em;\n      }\n    </style>\n    <script src=\"assets/js/jquery-1.10.2.js\">\n    </script>\n    <script src=\"assets/js/bootstrap.js\">\n    </script>\n    <script>\n       $(document).ready(function(){\n          \n          $('#left').css(\"opacity\",\"0\");\n          $('#left').fadeTo(1000,1);\n      \n      });\n    </script>\n  </body>\n</html>\n",
 			"file": "contact.html",
-			"file_size": 8046,
-			"file_write_time": 130227792037306373,
 			"settings":
 			{
-				"buffer_size": 7570,
+				"buffer_size": 7888,
 				"line_ending": "Unix"
 			}
 		}
@@ -108,6 +133,7 @@
 	"file_history":
 	[
 		"/C/$Projects/site_main/jetstrap-project/assets/css/Копия (1) bootstrap.css",
+		"/C/$Projects/site_main/jetstrap-project/test.css",
 		"/C/$Projects/site_main/jetstrap-project/test.html",
 		"/C/$tmp/elegantdesign36/process.html",
 		"/C/$Projects/site_main/jetstrap-project/screen-bd4e276e90.html",
@@ -138,6 +164,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"2D2D2D",
 			"Красов и Ко",
 			"Цвета",
 			"Прайс",
@@ -179,7 +206,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -187,15 +214,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5836,
+						"buffer_size": 5756,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								578,
-								578
+								5712,
+								5712
 							]
 						],
 						"settings":
@@ -215,15 +242,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 9722,
+						"buffer_size": 9808,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4708,
-								4708
+								589,
+								589
 							]
 						],
 						"settings":
@@ -243,15 +270,15 @@
 					"file": "technology.html",
 					"settings":
 					{
-						"buffer_size": 12861,
+						"buffer_size": 13182,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1443,
-								1443
+								311,
+								311
 							]
 						],
 						"settings":
@@ -271,15 +298,15 @@
 					"file": "process.html",
 					"settings":
 					{
-						"buffer_size": 13302,
+						"buffer_size": 13694,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1442,
-								1442
+								623,
+								623
 							]
 						],
 						"settings":
@@ -296,24 +323,24 @@
 				},
 				{
 					"buffer": 4,
-					"file": "photo.html",
+					"file": "catalog.html",
 					"settings":
 					{
-						"buffer_size": 14512,
+						"buffer_size": 7531,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1444,
-								1444
+								346,
+								346
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -324,18 +351,18 @@
 				},
 				{
 					"buffer": 5,
-					"file": "price.html",
+					"file": "photo.html",
 					"settings":
 					{
-						"buffer_size": 20181,
+						"buffer_size": 14740,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1448,
-								1448
+								498,
+								498
 							]
 						],
 						"settings":
@@ -352,18 +379,18 @@
 				},
 				{
 					"buffer": 6,
-					"file": "faq.html",
+					"file": "price.html",
 					"settings":
 					{
-						"buffer_size": 9708,
+						"buffer_size": 20729,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1438,
-								1438
+								654,
+								654
 							]
 						],
 						"settings":
@@ -380,18 +407,46 @@
 				},
 				{
 					"buffer": 7,
-					"file": "contact.html",
+					"file": "faq.html",
 					"settings":
 					{
-						"buffer_size": 7570,
+						"buffer_size": 10044,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								114,
-								114
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "contact.html",
+					"settings":
+					{
+						"buffer_size": 7888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								586
 							]
 						],
 						"settings":
