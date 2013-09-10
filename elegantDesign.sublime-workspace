@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
 				"fon",
 				"font-size"
 			],
@@ -47,7 +71,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 9831,
+				"buffer_size": 9765,
 				"line_ending": "Unix"
 			}
 		},
@@ -55,7 +79,7 @@
 			"file": "technology.html",
 			"settings":
 			{
-				"buffer_size": 13182,
+				"buffer_size": 11077,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,7 +87,7 @@
 			"file": "process.html",
 			"settings":
 			{
-				"buffer_size": 13694,
+				"buffer_size": 11799,
 				"line_ending": "Unix"
 			}
 		},
@@ -132,6 +156,10 @@
 	},
 	"file_history":
 	[
+		"/F/jetstrap-project/process.html",
+		"/F/jetstrap-project/catalog.html",
+		"/C/$Projects/site_main/jetstrap-project/technology.html",
+		"/C/$Projects/site_main/jetstrap-project/technology_old.html",
 		"/C/$Projects/site_main/jetstrap-project/assets/css/Копия (1) bootstrap.css",
 		"/C/$Projects/site_main/jetstrap-project/test.css",
 		"/C/$Projects/site_main/jetstrap-project/test.html",
@@ -164,6 +192,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"id=\"header\"",
 			"2D2D2D",
 			"Красов и Ко",
 			"Цвета",
@@ -206,7 +235,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -242,15 +271,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 9831,
+						"buffer_size": 9765,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8167,
-								8167
+								9000,
+								9117
 							]
 						],
 						"settings":
@@ -260,7 +289,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4389.0,
+						"translation.y": 5073.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -270,15 +299,15 @@
 					"file": "technology.html",
 					"settings":
 					{
-						"buffer_size": 13182,
+						"buffer_size": 11077,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								311,
-								311
+								2991,
+								3445
 							]
 						],
 						"settings":
@@ -288,7 +317,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 57.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -298,15 +327,15 @@
 					"file": "process.html",
 					"settings":
 					{
-						"buffer_size": 13694,
+						"buffer_size": 11799,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								623,
-								623
+								8605,
+								8605
 							]
 						],
 						"settings":
@@ -316,7 +345,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5757.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -417,8 +446,8 @@
 						"selection":
 						[
 							[
-								8291,
-								8291
+								9382,
+								9574
 							]
 						],
 						"settings":
@@ -428,7 +457,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4902.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
