@@ -36,15 +36,17 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon"> 
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
-    <script type="text/javascript" src="http://vk.com/js/api/openapi.js?101"></script>
-    <script type="text/javascript">
-      VK.init({apiId: 3873404, onlyWidgets: true});
-    </script>
-
     <style>
     </style>
+
+    <script type="text/javascript" src="http://vk.com/js/api/openapi.js?101"></script>
+	<script type="text/javascript">
+	  VK.init({apiId: 3873404, onlyWidgets: true});
+	</script>
+
   </head>
   <body>
+
     <div class="navbar navbar-fixed-top">
     	<div class="navbar-inner">
     		<div class="container-fluid">
@@ -87,6 +89,7 @@
     		</div>
     	</div>
     </div>
+
     <header class="jumbotron subhead" id="overview">
     	<div class="container-fluid">
     		<h1>
@@ -122,51 +125,49 @@
     						<a href="#">Денис, Березняк</a>
     					</li>
     					<li class="nav-header">
-    						Информация
+    						РАССКАЖИТЕ О НАС ЗНАКОМЫМ
     					</li>
     					<li>
-    						<a href="#">Отзывы о нашей работе</a>
-    					</li>
+    						<table class="table table-striped table-condensed">
+                                <tbody style="background-color1: rgb(238, 238, 238);">
+                                    <tr>
+                                        <td>
+                                        	<div id="vk_like"></div>
+											<script type="text/javascript">	
+												VK.Widgets.Like("vk_like", {type: "button"});
+											</script>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        	<div id="ok_shareWidget"></div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        	<a target="_blank" class="mrc__plugin_uber_like_button" href="http://connect.mail.ru/share?url=http://elegantdesign36.ru" data-mrc-config="{'cm' : '2', 'sz' : '20', 'st' : '2', 'tp' : 'mm'}">Нравится</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        	<a counter="yes" type="button" size="large" share_url="http://elegantdesign36.ru" share_title="Elegant Design - Натяжные потолки в Воронеже" name="ya-share"></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://elegantdesign36.ru" data-text="Elegant Design | Натяжные потолки в Воронеже" data-lang="ru">Твитнуть</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        	<div class="g-plusone" data-size="medium" data-href="http://elegantdesign36.ru"></div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>	
+                        </li>
     				</ul>
     			</div>
-                <br>
-                <table class="table table-condensed">
-                    <tbody>
-                        <tr>
-                            <td>
-                                <div id="vk_like"></div>
-                                <script type="text/javascript"> 
-                                    VK.Widgets.Like("vk_like", {type: "button"});
-                                </script>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div id="ok_shareWidget"></div>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <a target="_blank" class="mrc__plugin_uber_like_button" href="http://connect.mail.ru/share?url=http://elegantdesign36.ru" data-mrc-config="{'cm' : '2', 'sz' : '20', 'st' : '2', 'tp' : 'mm'}">Нравится</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <a counter="yes" type="button" size="large" share_url="http://elegantdesign36.ru" share_title="Elegant Design - Натяжные потолки в Воронеже" name="ya-share"></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://elegantdesign36.ru" data-text="Elegant Design | Натяжные потолки в Воронеже" data-lang="ru">Твитнуть</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div class="g-plusone" data-size="medium" data-href="http://elegantdesign36.ru"></div>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
     			<!--/.well -->
     		</div>
     		<!--/span-->
@@ -283,10 +284,9 @@
     	</div>
     	<!--/row-->
     </div>
+
     <br><br><br><br>
     <!--/.fluid-container-->
-
-
 
     <div class="navbar navbar-fixed-bottom" id="footer">
     	<div class="navbar-inner">
@@ -296,95 +296,95 @@
     					<a>© Elegant Design 2013</a>
     				</li>
     			</ul>
+
     			<ul class="nav pull-right">
     				<li class="pull-right">
     					<a class="pull-right" href="#" onclick="scroll(0,0); return false">Наверх</a>
     				</li>
     			</ul>
-                <ul class="nav pull-right">
-                    <li>
-                        <a>Поделиться информацией о нас:</a>
-                    </li>
-                    <li>
-                        <a class="social" href='http://vkontakte.ru/share.php?url=http://elegantdesign36.ru' target='_blank'><img src='image/share/vk.png' border='0' width='32' height='32' alt='' title='Поделиться ВКонтакте'></a>
-                    </li>
-                    <li>
-                        <a class="social" href='http://www.odnoklassniki.ru/dk?st.cmd=addShare&amp;st._surl=http://elegantdesign36.ru' target='_blank'><img src='image/share/odnoklassniki.png' border='0' width='32' height='32' alt='' title='Добавить в Одноклассники'></a>
-                    </li>
-                    <li>
-                        <a class="social" href='http://connect.mail.ru/share?share_url=http://elegantdesign36.ru' target='_blank'> <img src='image/share/mailru.png' border='0' width='32' height='32' alt='' title='Поделиться в Моем Мире'></a>   
-                    </li>
-                    <li>
-                        <a class="social" href='http://www.facebook.com/sharer.php?u=http://elegantdesign36.ru&t=Elegant Design - Натяжные потолки в Воронеже' target='_blank'><img src='image/share/facebook.png' border='0' width='32' height='32' alt='' title='Поделиться в Facebook'></a>
-                    </li>   
-                    <li>
-                        <a class="social" href='http://twitter.com/home?status=Elegant Design - натяжные потолки в Воронеже, http://elegantdesign36.ru' target='_blank'><img src='image/share/twitter.png' border='0' width='32' height='32' alt='' title='Добавить в Twitter'></a> 
-                    </li>
-                    <li>
-                        <a class="social" href='http://www.liveinternet.ru/journal_post.php?action=n_add&cnurl=http://elegantdesign36.ru&cntitle=Elegant Design - Натяжные потолки в Воронеже' target='_blank'><img src='image/share/liveinternet.png' border='0' width='32' height='32' alt='' title='Опубликовать в LiveInternet.ru'></a> 
-                    </li>   
-                    <li>
-                        <a class="social" href='http://zakladki.yandex.ru/newlink.xml?url=http://elegantdesign36.ru' target='_blank'><img src='image/share/yandex.png' border='0' width='32' height='32' alt='' title='Добавить в Яндекс.Закладки'></a>
-                    </li>   
-                </ul>
+
+				<ul class="nav pull-right">
+					<li>
+    					<a>Поделиться информацией о нас:</a>
+    				</li>
+    				<li>
+    					<a class="social" href='http://vkontakte.ru/share.php?url=http://elegantdesign36.ru' target='_blank'><img src='image/share/vk.png' border='0' width='32' height='32' alt='' title='Поделиться ВКонтакте'></a>
+    				</li>
+    				<li>
+    					<a class="social" href='http://www.odnoklassniki.ru/dk?st.cmd=addShare&amp;st._surl=http://elegantdesign36.ru' target='_blank'><img src='image/share/odnoklassniki.png' border='0' width='32' height='32' alt='' title='Добавить в Одноклассники'></a>
+    				</li>
+    				<li>
+    					<a class="social" href='http://connect.mail.ru/share?share_url=http://elegantdesign36.ru' target='_blank'> <img src='image/share/mailru.png' border='0' width='32' height='32' alt='' title='Поделиться в Моем Мире'></a> 	
+    				</li>
+    				<li>
+    					<a class="social" href='http://www.facebook.com/sharer.php?u=http://elegantdesign36.ru&t=Elegant Design - Натяжные потолки в Воронеже' target='_blank'><img src='image/share/facebook.png' border='0' width='32' height='32' alt='' title='Поделиться в Facebook'></a>
+    				</li>	
+    				<li>
+    					<a class="social" href='http://twitter.com/home?status=Elegant Design - натяжные потолки в Воронеже, http://elegantdesign36.ru' target='_blank'><img src='image/share/twitter.png' border='0' width='32' height='32' alt='' title='Добавить в Twitter'></a> 
+    				</li>
+    				<li>
+    					<a class="social" href='http://www.liveinternet.ru/journal_post.php?action=n_add&cnurl=http://elegantdesign36.ru&cntitle=Elegant Design - Натяжные потолки в Воронеже' target='_blank'><img src='image/share/liveinternet.png' border='0' width='32' height='32' alt='' title='Опубликовать в LiveInternet.ru'></a> 
+    				</li>	
+    				<li>
+    					<a class="social" href='http://zakladki.yandex.ru/newlink.xml?url=http://elegantdesign36.ru' target='_blank'><img src='image/share/yandex.png' border='0' width='32' height='32' alt='' title='Добавить в Яндекс.Закладки'></a>
+    				</li>	
+    			</ul>
+    			
     		</div>
     	</div>
     </div>
 
     <style>
-      body {
-        background: url("image/background/main.jpg");
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-      }
-      
-      .sidebar-nav {
-        padding: 9px 0;
-      }
-      
-      .table th, .table td{
-        border-top: 0px;
-      }
-
-      .social{
-        margin-top: -5px;
-        margin-bottom: -5px;
-        opacity: 0.8;
-      }
-
-      .social:hover{
-        opacity: 1;
-      }
-
-      @media (max-width: 980px) {
-        /* Enable use of floated navbar text */
-        .navbar-text.pull-right {
-          float: none;
-          padding-left: 5px;
-          padding-right: 5px;
-        }
-      }
-       
-      #mainhero{
-          padding-top: 2em;
-          padding-bottom: 2em;
-      }
-      
-      .lighten1 {
-          padding-left: 9px;
-          padding-right: 9px;
-      }
-      header{
-          margin-bottom: 0.7em;
-      }
-      
-      .fill{
-          background: url("image/pattern/pavement.png");
-      }
-
+    	.social{
+    		margin-top: -5px;
+    		margin-bottom: -5px;
+    	}
     </style>
+
+    <!-- Odnoklassniki share script-->
+    <script>
+	!function (d, id, did, st) {
+	  var js = d.createElement("script");
+	  js.src = "http://connect.ok.ru/connect.js";
+	  js.onload = js.onreadystatechange = function () {
+	  if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+	    if (!this.executed) {
+	      this.executed = true;
+	      setTimeout(function () {
+	        OK.CONNECT.insertShareWidget(id,did,st);
+	      }, 0);
+	    }
+	  }};
+	  d.documentElement.appendChild(js);
+	}(document,"ok_shareWidget","http://elegantdesign36.ru","{width:145,height:30,st:'rounded',sz:20,ck:1}");
+	</script>
+	<!-- end Odnoklassniki share script-->
+    
+    <!-- Twitter share script-->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+	</script>
+	<!-- end Twitter share script-->
+
+	<!-- Yandex share script-->
+	<script charset="utf-8" type="text/javascript">if (window.Ya && window.Ya.Share) {Ya.Share.update();} else {(function(){if(!window.Ya) { window.Ya = {} };Ya.STATIC_BASE = 'http:\/\/yandex.st\/wow\/2.21.3\/static';Ya.START_BASE = 'http:\/\/my.ya.ru\/';var shareScript = document.createElement("script");shareScript.type = "text/javascript";shareScript.async = "true";shareScript.charset = "utf-8";shareScript.src = Ya.STATIC_BASE + "/js/api/Share.js";(document.getElementsByTagName("head")[0] || document.body).appendChild(shareScript);})();}
+	</script>
+	<!-- end Yandex share script-->
+
+	<!-- Google share script -->
+	<script type="text/javascript">
+	  window.___gcfg = {lang: 'ru'};
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+	<!-- end Google share script-->
+
+	<!-- Mail.ru share script-->
+	<script src="http://cdn.connect.mail.ru/js/loader.js" type="text/javascript" charset="UTF-8"></script>
+	<!-- end Mail.ru share script-->
+
     <script src="assets/js/jquery-1.10.2.js">
     </script>
     <script src="assets/js/bootstrap.js">
@@ -397,50 +397,6 @@
       
       });
     </script>
-
-    <!-- Odnoklassniki share script-->
-    <script>
-    !function (d, id, did, st) {
-      var js = d.createElement("script");
-      js.src = "http://connect.ok.ru/connect.js";
-      js.onload = js.onreadystatechange = function () {
-      if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
-        if (!this.executed) {
-          this.executed = true;
-          setTimeout(function () {
-            OK.CONNECT.insertShareWidget(id,did,st);
-          }, 0);
-        }
-      }};
-      d.documentElement.appendChild(js);
-    }(document,"ok_shareWidget","http://elegantdesign36.ru","{width:145,height:30,st:'rounded',sz:20,ck:1}");
-    </script>
-    <!-- end Odnoklassniki share script-->
-    
-    <!-- Twitter share script-->
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-    </script>
-    <!-- end Twitter share script-->
-
-    <!-- Yandex share script-->
-    <script charset="utf-8" type="text/javascript">if (window.Ya && window.Ya.Share) {Ya.Share.update();} else {(function(){if(!window.Ya) { window.Ya = {} };Ya.STATIC_BASE = 'http:\/\/yandex.st\/wow\/2.21.3\/static';Ya.START_BASE = 'http:\/\/my.ya.ru\/';var shareScript = document.createElement("script");shareScript.type = "text/javascript";shareScript.async = "true";shareScript.charset = "utf-8";shareScript.src = Ya.STATIC_BASE + "/js/api/Share.js";(document.getElementsByTagName("head")[0] || document.body).appendChild(shareScript);})();}
-    </script>
-    <!-- end Yandex share script-->
-
-    <!-- Google share script -->
-    <script type="text/javascript">
-      window.___gcfg = {lang: 'ru'};
-      (function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/plusone.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-      })();
-    </script>
-    <!-- end Google share script-->
-
-    <!-- Mail.ru share script-->
-    <script src="http://cdn.connect.mail.ru/js/loader.js" type="text/javascript" charset="UTF-8"></script>
-    <!-- end Mail.ru share script-->
 
 
   </body>
