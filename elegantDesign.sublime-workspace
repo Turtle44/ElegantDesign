@@ -67,7 +67,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7481,
+				"buffer_size": 7484,
 				"line_ending": "Unix"
 			}
 		},
@@ -75,7 +75,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 16941,
+				"buffer_size": 16944,
 				"line_ending": "Unix"
 			}
 		},
@@ -83,7 +83,7 @@
 			"file": "technology.html",
 			"settings":
 			{
-				"buffer_size": 13619,
+				"buffer_size": 13622,
 				"line_ending": "Unix"
 			}
 		},
@@ -91,7 +91,7 @@
 			"file": "process.html",
 			"settings":
 			{
-				"buffer_size": 14022,
+				"buffer_size": 14025,
 				"line_ending": "Unix"
 			}
 		},
@@ -99,7 +99,7 @@
 			"file": "catalog.html",
 			"settings":
 			{
-				"buffer_size": 10108,
+				"buffer_size": 10111,
 				"line_ending": "Unix"
 			}
 		},
@@ -107,7 +107,7 @@
 			"file": "photo.html",
 			"settings":
 			{
-				"buffer_size": 19271,
+				"buffer_size": 19274,
 				"line_ending": "Unix"
 			}
 		},
@@ -115,7 +115,7 @@
 			"file": "price.html",
 			"settings":
 			{
-				"buffer_size": 23491,
+				"buffer_size": 23494,
 				"line_ending": "Unix"
 			}
 		},
@@ -123,7 +123,7 @@
 			"file": "faq.html",
 			"settings":
 			{
-				"buffer_size": 12798,
+				"buffer_size": 12801,
 				"line_ending": "Unix"
 			}
 		},
@@ -131,7 +131,7 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 10570,
+				"buffer_size": 10573,
 				"line_ending": "Unix"
 			}
 		},
@@ -139,7 +139,7 @@
 			"file": "test.html",
 			"settings":
 			{
-				"buffer_size": 15858,
+				"buffer_size": 15861,
 				"line_ending": "Windows"
 			}
 		}
@@ -194,7 +194,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"<open files>"
@@ -205,6 +205,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Добавить в Одноклассники",
 			"pull-center",
 			"Фото",
 			"id=\"header\"",
@@ -228,6 +229,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Поделиться в Одноклассниках",
 			"Галерея",
 			"Elegant Design",
 			"Каталог",
@@ -251,7 +253,7 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -259,15 +261,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 7481,
+						"buffer_size": 7484,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7023,
-								7166
+								4918,
+								4918
 							]
 						],
 						"settings":
@@ -277,7 +279,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3037.0,
+						"translation.y": 2052.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -287,15 +289,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 16941,
+						"buffer_size": 16944,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13733,
-								13733
+								13736,
+								13736
 							]
 						],
 						"settings":
@@ -305,7 +307,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6552.0,
+						"translation.y": 5545.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -315,15 +317,15 @@
 					"file": "technology.html",
 					"settings":
 					{
-						"buffer_size": 13619,
+						"buffer_size": 13622,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10693,
-								10693
+								10696,
+								10696
 							]
 						],
 						"settings":
@@ -343,15 +345,15 @@
 					"file": "process.html",
 					"settings":
 					{
-						"buffer_size": 14022,
+						"buffer_size": 14025,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11090,
-								11090
+								11093,
+								11093
 							]
 						],
 						"settings":
@@ -371,15 +373,15 @@
 					"file": "catalog.html",
 					"settings":
 					{
-						"buffer_size": 10108,
+						"buffer_size": 10111,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8983,
-								8983
+								8986,
+								8986
 							]
 						],
 						"settings":
@@ -399,15 +401,15 @@
 					"file": "photo.html",
 					"settings":
 					{
-						"buffer_size": 19271,
+						"buffer_size": 19274,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18570,
-								18570
+								18573,
+								18573
 							]
 						],
 						"settings":
@@ -427,15 +429,15 @@
 					"file": "price.html",
 					"settings":
 					{
-						"buffer_size": 23491,
+						"buffer_size": 23494,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22981,
-								22981
+								22984,
+								22984
 							]
 						],
 						"settings":
@@ -455,21 +457,21 @@
 					"file": "faq.html",
 					"settings":
 					{
-						"buffer_size": 12798,
+						"buffer_size": 12801,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12396,
-								12396
+								12399,
+								12399
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -483,21 +485,21 @@
 					"file": "contact.html",
 					"settings":
 					{
-						"buffer_size": 10570,
+						"buffer_size": 10573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10252,
-								10252
+								10255,
+								10255
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -511,23 +513,25 @@
 					"file": "test.html",
 					"settings":
 					{
-						"buffer_size": 15858,
+						"buffer_size": 15861,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13230,
-								13296
+								13233,
+								13299
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6384.0,
+						"translation.y": 5415.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
