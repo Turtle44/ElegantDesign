@@ -75,7 +75,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 16944,
+				"buffer_size": 16906,
 				"line_ending": "Unix"
 			}
 		},
@@ -131,7 +131,7 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 10573,
+				"buffer_size": 14938,
 				"line_ending": "Unix"
 			}
 		},
@@ -194,7 +194,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"<open files>"
@@ -289,15 +289,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 16944,
+						"buffer_size": 16906,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13736,
-								13736
+								4579,
+								4579
 							]
 						],
 						"settings":
@@ -307,7 +307,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5545.0,
+						"translation.y": 2448.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -485,15 +485,15 @@
 					"file": "contact.html",
 					"settings":
 					{
-						"buffer_size": 10573,
+						"buffer_size": 14938,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10255,
-								10255
+								4466,
+								6110
 							]
 						],
 						"settings":
@@ -503,7 +503,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5127.0,
+						"translation.y": 2429.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -531,7 +531,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5415.0,
+						"translation.y": 703.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
