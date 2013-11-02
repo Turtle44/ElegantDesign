@@ -115,7 +115,7 @@
 			"file": "price.html",
 			"settings":
 			{
-				"buffer_size": 23494,
+				"buffer_size": 29246,
 				"line_ending": "Unix"
 			}
 		},
@@ -253,7 +253,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -303,11 +303,11 @@
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2448.0,
+						"translation.y": 1840.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -429,15 +429,15 @@
 					"file": "price.html",
 					"settings":
 					{
-						"buffer_size": 23494,
+						"buffer_size": 29246,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22984,
-								22984
+								10723,
+								10723
 							]
 						],
 						"settings":
@@ -447,7 +447,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8414.0,
+						"translation.y": 3778.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
