@@ -115,7 +115,7 @@
 			"file": "price.html",
 			"settings":
 			{
-				"buffer_size": 41423,
+				"buffer_size": 37964,
 				"line_ending": "Unix"
 			}
 		},
@@ -246,7 +246,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -422,15 +422,15 @@
 					"file": "price.html",
 					"settings":
 					{
-						"buffer_size": 41423,
+						"buffer_size": 37964,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5241,
-								5241
+								6549,
+								6549
 							]
 						],
 						"settings":
@@ -440,7 +440,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1726.0,
+						"translation.y": 2395.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
