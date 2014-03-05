@@ -35,45 +35,14 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
     <style>
+      
       body{
         padding-top: 0px;
         padding-bottom: 0px;
         background: url("image/background/index.jpg");
         height: 100%;
       }
-      #headNav2{
-        display: none;
-      }
-      #hero {
-          margin-left: 2em;
-          margin-right: 2em;
-          /*width: 80%;*/
-          /*margin-top: 2em;*/
-          /*margin-bottom: 2.1em;*/
-          /*margin: 2em auto;*/
 
-      }
-      #left{
-          margin:auto;
-          width: 80%;
-          margin-bottom: 2em;
-      }
-      img{ 
-          margin:auto;
-          background-color:#eeeeee;
-      }
-      .social{
-        margin-top: -5px;
-        margin-bottom: -5px;
-        opacity: 0.8;
-      }
-      .social:hover{
-        opacity: 1;
-      }
-      #navFoot{
-        margin-right: 0;
-        margin-left: 0;
-      }
       @media (max-width: 980px) { 
          #share_info{
           display: none;
@@ -83,83 +52,66 @@
          }
 
       }
-      @media (max-width: 320px) {
-        body{
-          padding-left: 0px;
-          padding-right: 0px;
-        }
-        #headNav1{
-          display: none;
-        }
-        #headNav2{
-          display: table;
-        }
-        #upStairs{
-          display: none;
-        }
-        #hero {
-          margin: 1em auto;
-          width: 85%;
-          padding:  4px 9px 18px 9px;
-        }
-        #left{
+      
+      #hero {
+          margin-left: 2em;
+          margin-right: 2em;
+          margin-top: 2em;
+          margin-bottom: 2.1em;
+      }
+      
+      #left{
           margin:auto;
-          width: 70%;
+          width: 80%;
           margin-bottom: 2em;
-        }
-        #foot{
-          padding: 0 20px;
-        }
-        #button1{
-          display: block;
-          /*margin:auto;*/
-        }
-        #welcome{
-          display: block;
-          font-size: 19px;
-          text-align: center;
-          line-height: 28px;
-        }
-        #paragraph1{
-          font-size: 13px;
-          line-height: 20px;
-          margin: 0px 10px 18px 10px;
-        }
+      }
+      
+      img{ 
+          margin:auto;
+          background-color:#eeeeee;
+      }
+
+      .social{
+        margin-top: -5px;
+        margin-bottom: -5px;
+        opacity: 0.8;
+      }
+
+      .social:hover{
+        opacity: 1;
       }
     </style>
   </head>
   <body>
-    <!--<div class="container-fluid wrapper" style="height: 100%">-->
+    <div class="container-fluid wrapper" style="height: 100%">
     	<!-- Main hero unit for a primary marketing message or call to action
     	-->
     	<div class="navbar">
     		<div class="navbar-inner">
-    			<div class="container-fluid">
-    				<a class="brand" id="headNav1" href="main.html">Elegant Design &nbsp; &middot; &nbsp; Натяжные потолки в Воронеже</a>
-    			  <a class="brand" id="headNav2" href="main.html">Elegant Design</a>
-          </div>
+    			<div class="container">
+    				<a class="brand" href="main.html">Elegant Design &nbsp; &middot; &nbsp; Натяжные потолки в Воронеже</a>
+    			</div>
     		</div>
     	</div>
-
-      <div class="container-fluid">
-    	<div class="row-fluid" id="heroRow">
+    	<div class="row-fluid">
     		<div id="hero" class="hero-unit text-left">
-    			<h2 id="welcome">
+    			<h2 id="cta">
     				Добро пожаловать!
     			</h2>
-    			<p id="paragraph1" style="text-align: justify">
+    			<p id="par0" style="text-align: justify">
     				Приветствуем Вас на нашем сайте, посвященном искусству создания неповторимого
     				элемента интерьера - натяжных потолков. Здесь Вы можете узнать о современных
     				технологиях в этой области, подобрать подходящие материалы и ознакомиться
     				с примерами наших работ в городе Воронеже. 
         	<br>
     			</p>
-    			<a id="button1" href="main.html" class="btn btn-large btn-success text-center">Узнать больше</a>
+    			<p>
+    			</p>
+    			<a id="." href="main.html" class="btn btn-large btn-success text-center">Узнать больше</a>
     		</div>
     	</div>
     	<br>
-    	
-      <div class="row-fluid">
+    	<div class="row-fluid">
     		<!-- Example row of columns -->
     		<div class="well" id="left">
     			<div class="row-fluid">
@@ -186,8 +138,8 @@
     </div>
 
     <br><br><br><br><br><br><br><br><br><br>
-    <div class="navbar navbar-fixed-bottom" id="navFoot">
-        <div class="navbar-inner" id="foot">
+    <div class="navbar navbar-fixed-bottom">
+        <div class="navbar-inner">
     		<div class="container-fluid">
     			<ul class="nav">
     				<li>
@@ -195,7 +147,7 @@
     				</li>
     			</ul>
 
-    			<ul class="nav pull-right" id = "upStairs">
+    			<ul class="nav pull-right">
     				<li class="pull-right">
     					<a class="pull-right" href="#" onclick="scroll(0,0); return false">Наверх</a>
     				</li>
