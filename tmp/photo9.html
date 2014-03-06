@@ -60,6 +60,28 @@
           background-size: cover;
       }
 
+      /* Enable use of floated navbar text */
+       @media (max-width: 980px) { 
+         .navbar-text.pull-right {
+          float: none;
+          padding-left: 5px;
+          padding-right: 5px;
+        }
+
+        header{
+          padding-top: 1.9em;
+          padding-left: 5%;
+          padding-right: 5%;  
+        }
+
+        #share_info{
+          display: none;
+         }
+        #counters_info{
+          display: none;
+         } 
+      }
+       
       header{ 
           background-color: rgb(238, 238, 238);
           /*margin-bottom: 0.7em; */
@@ -91,44 +113,6 @@
       .social:hover{
         opacity: 1;
       }
-       @media (max-width: 980px) { 
-         .navbar-text.pull-right {
-          float: none;
-          padding-left: 5px;
-          padding-right: 5px;
-        }
-
-        header{
-          padding-top: 1.9em;
-          padding-left: 5%;
-          padding-right: 5%;  
-        }
-
-        #share_info{
-          display: none;
-         }
-        #counters_info{
-          display: none;
-         } 
-      }
-      @media (max-width: 540px) {
-        #overview{
-          margin-left: -20px;
-          margin-right: -20px;
-          padding-top: 5px;
-        }
-        #head{
-            font-size: 32px;
-            margin-top: 0px;
-        }
-        #subHead{
-            font-size: 14px;
-            line-height: 20px;
-            margin-bottom: 10px;
-            text-align: left;
-        }
-      }
-
     </style>
   </head>
   <body>
@@ -176,11 +160,11 @@
     </div>
     <header class="jumbotron subhead" id="overview">
     	<div class="container-fluid">
-    		<h1 id="head">
+    		<h1>
     			Галерея
     			<br>
     		</h1>
-    		<p class="lead" id="subHead">
+    		<p class="lead">
     			В этом разделе представлены фотографии наших работ в Воронеже
     			<br>
     		</p>
